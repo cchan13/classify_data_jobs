@@ -8,3 +8,19 @@ We were less focused on model accuracy and more so on interpretability. We wante
 - scraped from Glassdoor job postings Jun. 2020
 (https://github.com/picklesueat/data_jobs_data)
 - searched by keyword 'Data Scientist', 'Data Analyst', 'Data Engineer'
+
+#### models
+*Supervised Learning:*
+
+ - Decision Trees
+ 
+ - Random Forest
+ 
+ - Naive Bayes
+ 
+ 
+*Unsupervised learning:*
+
+ - Topic Modeling
+ 
+ - KMeans Clustering
